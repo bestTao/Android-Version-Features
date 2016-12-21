@@ -1,6 +1,10 @@
 # Android各个版本的特性--持续更新
 ## 版本
 
+### Android 2.0
+
+- 增加`onBackPressed()`方法，专门用来back键的事件监听
+
 ### Android 4.4
 
 - 沉浸式状态栏
